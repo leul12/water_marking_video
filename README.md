@@ -18,3 +18,5 @@ This app is a GUI application built using the Tkinter library in Python that all
 * Option to set the opacity of the watermark
 * A progress bar to indicate the conversion progress
 * Support for additional video file formats (AVI, FLV, etc.)
+
+**copyrights are free clone do it for what ever you want**
